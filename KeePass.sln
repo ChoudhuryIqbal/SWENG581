@@ -4,6 +4,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeePassLib", "KeePassLib\KeePassLib.csproj", "{53573E4E-33CB-4FDB-8698-C95F5E40E7F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeePassUnitTest", "KeePassUnitTest\KeePassUnitTest.csproj", "{F885A166-0BAC-4AB3-9633-1DA17607B615}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +30,22 @@ Global
 		{53573E4E-33CB-4FDB-8698-C95F5E40E7F3}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{53573E4E-33CB-4FDB-8698-C95F5E40E7F3}.Release|Win32.ActiveCfg = Release|Any CPU
 		{53573E4E-33CB-4FDB-8698-C95F5E40E7F3}.Release|x64.ActiveCfg = Release|Any CPU
+		{F885A166-0BAC-4AB3-9633-1DA17607B615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F885A166-0BAC-4AB3-9633-1DA17607B615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F885A166-0BAC-4AB3-9633-1DA17607B615}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F885A166-0BAC-4AB3-9633-1DA17607B615}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F885A166-0BAC-4AB3-9633-1DA17607B615}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{F885A166-0BAC-4AB3-9633-1DA17607B615}.Debug|Win32.Build.0 = Debug|Any CPU
+		{F885A166-0BAC-4AB3-9633-1DA17607B615}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F885A166-0BAC-4AB3-9633-1DA17607B615}.Debug|x64.Build.0 = Debug|Any CPU
+		{F885A166-0BAC-4AB3-9633-1DA17607B615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F885A166-0BAC-4AB3-9633-1DA17607B615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F885A166-0BAC-4AB3-9633-1DA17607B615}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F885A166-0BAC-4AB3-9633-1DA17607B615}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F885A166-0BAC-4AB3-9633-1DA17607B615}.Release|Win32.ActiveCfg = Release|Any CPU
+		{F885A166-0BAC-4AB3-9633-1DA17607B615}.Release|Win32.Build.0 = Release|Any CPU
+		{F885A166-0BAC-4AB3-9633-1DA17607B615}.Release|x64.ActiveCfg = Release|Any CPU
+		{F885A166-0BAC-4AB3-9633-1DA17607B615}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
