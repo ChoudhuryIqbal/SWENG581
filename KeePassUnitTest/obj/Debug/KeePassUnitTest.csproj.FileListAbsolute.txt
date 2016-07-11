@@ -1,0 +1,6 @@
+C:\Users\Dylan Houston\Documents\PENN STATE\Software Testing\KeePass-2.34-Source\KeePassUnitTest\bin\Debug\KeePassUnitTest.dll
+C:\Users\Dylan Houston\Documents\PENN STATE\Software Testing\KeePass-2.34-Source\KeePassUnitTest\bin\Debug\KeePassUnitTest.pdb
+C:\Users\Dylan Houston\Documents\PENN STATE\Software Testing\KeePass-2.34-Source\KeePassUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Dylan Houston\Documents\PENN STATE\Software Testing\KeePass-2.34-Source\KeePassUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Dylan Houston\Documents\PENN STATE\Software Testing\KeePass-2.34-Source\KeePassUnitTest\obj\Debug\KeePassUnitTest.dll
+C:\Users\Dylan Houston\Documents\PENN STATE\Software Testing\KeePass-2.34-Source\KeePassUnitTest\obj\Debug\KeePassUnitTest.pdb
